@@ -26,3 +26,4 @@
 
 [![KarthikGH07's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikGH07&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/KarthikGH07/KarthikGH07)
 
+AIzaSyDQi7BbF4aWQzNU1hqkhb2DIhm4BjY3vH4
