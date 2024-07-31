@@ -1,6 +1,15 @@
 # 👋 Hi, I’m Kartik Hegde
-- 👀 I’m interested in Web & Mobile App Development, DevOps
-- 🌱 I’m currently learning React JS, React Native
+
+## 👀 Interests
+- Web and Mobile App Development
+- DevOps
+## 🌱 Currently Learning
+- SvelteKit
+- Framer Motion
+## 🚀 Currently Working On
+- React.js
+- Next.js
+- React Native with Expo
 
 ## My tech stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
