@@ -1,15 +1,20 @@
 # 👋 Hi, I’m Kartik Hegde
 
+
+## 🚀 Currently Working On
+- React.js
+- Next.js
+- React Native
+- Expo
+- GitHub Actions
 ## 👀 Interests
 - Web and Mobile App Development
 - DevOps
 ## 🌱 Currently Learning
 - SvelteKit
-- Framer Motion
-## 🚀 Currently Working On
-- React.js
-- Next.js
-- React Native with Expo
+- Motion
+- Astro
+
 
 ## My tech stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
